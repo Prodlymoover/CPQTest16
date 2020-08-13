@@ -1,2 +1,3 @@
 "Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
-a16c93d8-ac7f-4190-b211-457dd8b3272f,347ffb1c-6c1a-45de-bc9a-7627ef213d83,"#N/A",2020-08-13,"#N/A","#N/A",Pipeline,"#N/A",Test Opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+61417146-d1d2-40e6-8277-6914737847ca,40d7b351-df65-467a-a1b2-7809590ddf07,"#N/A",2020-08-13,"#N/A","#N/A",Pipeline,"#N/A",B Opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+a16c93d8-ac7f-4190-b211-457dd8b3272f,347ffb1c-6c1a-45de-bc9a-7627ef213d83,"#N/A",2020-08-13,"#N/A","#N/A",Pipeline,"#N/A",Test Opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,Existing Business
