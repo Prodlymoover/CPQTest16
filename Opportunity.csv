@@ -1,3 +1,2 @@
 "Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
-66000ce2-c0f5-40b7-899b-5e9df0af511d,f90ccd88-2db8-40cc-becd-585edb715ad8,"#N/A",2020-08-13,"#N/A","#N/A",Pipeline,"#N/A",UNited Company,"#N/A",60.0,false,false,"#N/A",false,"#N/A",false,Id. Decision Makers,"#N/A"
-78e98a80-e9e4-4c62-9aa7-7202393fc16d,9727e064-34c3-4c01-8293-00f8cb950a6e,"#N/A",2020-08-13,"#N/A","#N/A",Pipeline,"#N/A",Test Opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+a16c93d8-ac7f-4190-b211-457dd8b3272f,347ffb1c-6c1a-45de-bc9a-7627ef213d83,"#N/A",2020-08-13,"#N/A","#N/A",Pipeline,"#N/A",Test Opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
